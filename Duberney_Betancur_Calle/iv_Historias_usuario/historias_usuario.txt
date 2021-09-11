@@ -1,0 +1,65 @@
+HISTORIAS DE USUARIO					
+									
+ID de refencia:	1		Nombre:	Consulta de sistema	
+					
+Usuario:	Usuario				
+Modifica la historía: 	N/A		Sprint:	0	
+Prioridad:	Alta		PF estimados:	0	
+Riesgos de desarrollo:	Alta		PF reales:	0	
+Descripción: Acceder al módulo de consulta					
+								
+Observaciones: Al realizar la consulta puede tener varias salidas según lo que en cada paso se dé.					
+					
+																	
+HISTORIAS DE USUARIO					
+										
+ID de refencia:	2		Nombre:	Valida existencia en búsqueda simple y avanzada	
+					
+Usuario:	Usuario				
+Modifica la historía: 	Sí		Sprint:	0	
+Prioridad:	Alta		PF estimados:	0	
+Riesgos de desarrollo:	Alta		PF reales:	0	
+Descripción: El usuario busca y verifica si el libro existe en la biblioteca, si existe se valida si en el momento está disponible el ejemplar o si requiere esperar. En caso no estar disponible sugerir similares según criterios de búsqueda avanzada.					
+									
+Observaciones: En caso de una búsqueda sencilla, si el libro no existe, se procede a una búsqueda avanzada con más criterios de búsqueda.					
+					
+										
+HISTORIAS DE USUARIO					
+										
+ID de refencia:	3		Nombre:	Verifica disponibilidad	
+					
+Usuario:	Usuario				
+Modifica la historía: 	Sí		Sprint:	0	
+Prioridad:	Alta		PF estimados:	0	
+Riesgos de desarrollo:	Alta		PF reales:	0	
+Descripción: Si encuentra el libro valida si está disponible para prestamo, si hay más existencias o cuando puede solicitar el préstamo, 
+si no está disponible en el momento puede separar el libro con anticipación, de tal manera que cuando sea retornado lo pueda tomar.					
+										
+Observaciones: Poder hacer o no el prestamo depende completamente de la disponibilidad, en caso de no estar disponible, se pasa a hacer la reserva.		
+					
+										
+HISTORIAS DE USUARIO					
+										
+ID de refencia:	4		Nombre:	Solicita préstamo	
+					
+Usuario:	Usuario				
+Modifica la historía: 	Sí		Sprint:	0	
+Prioridad:	Alta		PF estimados:	0	
+Riesgos de desarrollo:	Alta		PF reales:	0	
+Descripción: Si realmente existe el libro y está disponible, solicita el préstamo, se establece plazo de devolución. Si es usuario registrado se carga a su perfil el préstamo, si no está registrado deberá diligenciar los campos para registrarse y poder realizar la solicitud.					
+									
+Observaciones: Es la función más empleada y que requiere más atención justamente porque le da sentido al uso de la aplicación para gestionar la biblioteca					
+										
+					
+HISTORIAS DE USUARIO					
+										
+ID de refencia:	5		Nombre:	Guardar búsqueda y separar	
+					
+Usuario:	Usuario				
+Modifica la historía: 	Sí		Sprint:	0	
+Prioridad:	Alta		PF estimados:	0	
+Riesgos de desarrollo:	Alta		PF reales:	0	
+Descripción: Si no está disponible por el momento, el usuario puede separar el préstamo para cuando esté disponible.					
+										
+Observaciones: Es la función más empleada y que requiere más atención justamente porque le da sentido al uso de la aplicación para gestionar la biblioteca					
+							
