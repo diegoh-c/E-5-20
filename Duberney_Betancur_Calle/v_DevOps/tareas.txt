@@ -1,0 +1,31 @@
+Dentro de las tareas asignadas estaba realizar los requerimientos funcionales:
+
+REQUERIMIENTOS FUNCIONALES MÓDULO CONSULTA					
+- Funcionamiento					
+¿Quien lo usa?			
+Usuario registrado y no registrado		
+
+¿Cuando lo debe usar?			
+Cada vez que requiera realizar una consulta para solicitar prestamo de libro		
+
+¿Qué debe permitir realizar?			
+Tener un campo de búsqueda, un botón que ejecute la búsqueda		
+
+¿Qué criterios de consulta deben aparecer?			
+Para una búsqueda sencilla se puede realizar por uno o dos criterios como título, autor o tema. Para una búsqueda avanzada ISBN, fecha de publicación, editorial, año de publicación		
+
+¿Qué pasa si el libro no existe en la biblioteca?			
+Si no existe, le debe notificar al usuario pero le debe sugerir unos similares con bases en la búsqueda		
+
+¿Qué pasa si el libro existe pero no está disponible?			
+El usuario podrá reservar el libro para cuando se encuentre disponible		
+
+¿Si existe y está disponible que paso sigue?			
+Solicitar el prestamo y establecer la fecha de devolución de acuerdo con las políticas de la biblioteca		
+
+- Conectividad y físicos					
+¿Hardware necesario?			
+Monitor para visualizar, mouse y teclado que permitan la interacción del usuario con el sitio web, CPU.		
+
+¿Se requiere conexión a internet?			
+Para realizar los prestamos sí, la sola consulta puede ser offline ya que la base de datos puede estar alojada de manera local		
