@@ -1,1 +1,1 @@
-Este se encuentra en Azure DevOps en el suguiente enlace:
+Este se encuentra en Azure DevOps en el suguiente enlace viendo los avances de las tareas: https://dev.azure.com/diegoh-c/Proyecto_Biblioteca/_boards/board/t/Proyecto_Biblioteca%20Team/Issues
