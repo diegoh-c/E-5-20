@@ -1,0 +1,49 @@
+*******************HISTORIAS DE USUARIOS ************************************************************************
+-----------------------------------------------------------------------------------------------------------------
+Nombre: Actualizacion de datos personales Usuario Afiliado
+Prioridad en Negocio: media
+rol: Yo como usuario Afiliado root.
+funcionalidad: Necesito actualizar mis datos principales y seleccionar mis gustos de géneros literarios
+Criterio de Aceptación:
+● el usuario debe seleccionar el campo actualizar datos personales
+● el usuario puede editar la información de dirección teléfono escolaridad, ocupación, genero, fecha de nacimiento, correo electrónico
+
+------------------------------------------------------------------------------------------------------------------
+
+Nombre: Renovar los libros prestados al usuario afiliado
+Prioridad en Negocio: Media
+rol: Yo como usuario Afiliado root.
+funcionalidad: Necesito renovar los libros que tengo prestados para tenerlos un mayor tiempo
+Criterio de Aceptación:
+● el usuario debe seleccionar el libro que desea renovar.
+● el usuario puede ver el numero de renovaciones realizadas al libro
+● el usuario debe ver un mensaje de alerta cuando se exceden el numero renovaciones permitidas
+------------------------------------------------------------------------------------------------------------------
+
+Nombre: Reservar un libro por parte de Usuario-Afiliado
+Prioridad en Negocio: Media
+rol: Yo como usuario afiliado root.
+funcionalidad: necesito reservar un libro que se encuentra prestado a otro afiliado
+Criterio de Aceptación:
+el usuario debe poder diligenciar un formato donde seleccione el libro que quiere reservar
+el usuario en la sección reservas debe ver un listado con los libros reservados
+------------------------------------------------------------------------------------------------------------------
+
+Nombre: Consultar multas por parte de UsuarioAfiliado
+Prioridad: Alta
+rol: Yo como usuario afiliado
+funcionalidad: Necesito consultar las multas por retraso en la entrega
+Criterio de Aceptación:
+
+el usuario puede ver listado de libros con el numero de dias de retraso y el valor total de la multa
+------------------------------------------------------------------------------------------------------------------
+Nombre: Consultar libros cargados a la cuenta
+Prioridad en Negocio: alta
+rol: Yo como usuario root
+funcionalidad: Necesito ver el listado de libros cargados a mi cuenta
+Criterio de Aceptación:
+● el usuario debe ingresar a la sección libros prestados
+● el usuario debe ver el listado de libros en calidad de préstamo con fecha de devolución
+------------------------------------------------------------------------------------------------------------------
+
+*************************************************************************************************************************
