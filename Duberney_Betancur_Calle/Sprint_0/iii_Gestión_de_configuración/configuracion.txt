@@ -1,0 +1,7 @@
+Para la realizacion de los elementos de este Sprint:
+Historias de usuario: Google Sheet
+Casos de Uso: el diagrama se realiza Lucidchart y luego se exporta a PDF y su Descripción
+                se realiza en Google Sheet.
+Requerimientos funcionales: Google Sheet
+
+Para los encuentros y asignación de tareas: Whatsapp, Google Drive, Gmmail, Google Meet, Azure DevOps, GitHub.
